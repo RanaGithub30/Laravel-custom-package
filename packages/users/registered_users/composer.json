@@ -1,0 +1,5 @@
+{
+    "name": "user/registered_users",
+    "description": "This is for registration of users",
+    "require": {}
+}

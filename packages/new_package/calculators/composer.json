@@ -1,0 +1,5 @@
+{
+    "name": "new_package/calculators",
+    "description": "Simple Package Demo",
+    "require": {}
+}
